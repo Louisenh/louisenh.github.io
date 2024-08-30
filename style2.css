@@ -1,0 +1,41 @@
+body {
+    background-color: palevioletred;
+}
+
+h1 {
+    color: white;
+}
+
+
+h2 {
+    color: white;
+}
+
+h3 {
+    color: white;
+}
+
+li {
+    color: white;
+}
+
+p {
+    color: white;
+}
+
+
+h2 {
+    border-style: solid;
+    border-width: medium;
+    border-color: white;
+}
+
+
+
+
+li {
+    padding-top: 20px;
+    padding-right: 0px;
+    padding-bottom: 0px;
+    padding-left: 0px;
+  }
